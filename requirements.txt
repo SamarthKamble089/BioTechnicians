@@ -1,0 +1,6 @@
+torch
+numpy
+nibabel
+PyQt6
+pyvista
+pyvistaqt
